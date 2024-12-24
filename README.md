@@ -1,1 +1,1 @@
-Hi! My name is Caitlyn Jones, and I am a junior at Brandeis University. I am double majoring in Computer Science and Applied Mathematics and pursing BS in both. My future career goals focus on software engineering with speciality in game and web devolpment. 
+Hi! My name is Caitlyn Jones, and I am a junior at Brandeis University. I am double majoring in Computer Science and Applied Mathematics. My future career goals focus on software engineering with a speciality in game and web development. 
